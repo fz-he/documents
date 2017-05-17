@@ -4,7 +4,7 @@
 
 这个列表综合了伯乐在线网站以往推荐[经典书籍](http://blog.jobbole.com/tag/book/)文章中的列表，以及在微信和微博中被广泛推荐的好书。虽然已经包括了100多本，覆盖的面也比较全。仍然有很多方面需要补充，而且相信还有很多没有被收录的好书。欢迎大家在 PR 中推荐或自荐。
 
-## 计算机系统与网络 全
+## 计算机系统与网络
 
 *   《[图灵的秘密](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEQISA1AYUyUCEgdWGVwTByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQISBFccXRAdS0IJRmtcZEsDV00OEWIQVytuA2BdYWwTQlhTDh43Uh5cEwsUA1YrWxIBEAdlKzpnMkBpja3tzaejG4Gx1MCKhTdQH18WAxMEUB1rFQcUAVMaUxQLEgBcGGsSMkRDBUQeS1RWVworaw%3D%3D&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsVAhEFUh1eCltXWwg%3D)》
 *   《[计算机系统概论](http://union.click.jd.com/jdc?e=&p=AyIHZR5aEwESAFUaWSUCEwNdH18RBxsOVisfSlpMWGVCHlBDGRlLQx5BXg1cAAQJS14MB1QfUxEGFgJcElgKW1dbCCsnSRhqcC9aWXd7YAFRYllsRhd%2BVhIrGQ4iAFAcXRwEFgRlG1wWABI3ZXopJUN8BFQfXBMBIgJRH1gUAxECUytbEAQUAVQSUhYHFQBXK1wlVFZXCl4FQ0ZCWGUr&t=W1dCFBBFC1pXUwkEAEAdQFkJBVsUBhoDUR9eHAsRGAxeB0g%3D)》
